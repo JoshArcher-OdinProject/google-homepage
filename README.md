@@ -6,6 +6,12 @@ If you would like to find out more about this specific project or attempt your o
 
 If you'd like to find out more about The Odin Project you can do so here: http://www.theodinproject.com/
 
+## View the final Page
+
+You can preview my final page at the following URL:
+
+https://htmlpreview.github.io/?https://github.com/PuffinBlue/google-homepage/blob/master/index.html
+
 ## Thoughts on this project
 
 I'm blogging about my progress through the course here: http://josharcher.uk/code/
